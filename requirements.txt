@@ -1,0 +1,39 @@
+# Alpha Recommendation Engine - Requirements
+# Python 3.9+
+
+# Core Data Science
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.11.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+networkx>=3.1
+
+# Financial Data
+yfinance>=0.2.30
+requests>=2.31.0
+
+# Visualization & Dashboard
+streamlit>=1.30.0
+plotly>=5.18.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Optimization (Optional but recommended)
+cvxpy>=1.4.0
+
+# Utilities
+python-dateutil>=2.8.2
+pytz>=2023.3
+
+# API & Web
+urllib3>=2.0.0
+certifi>=2023.7.22
+
+# Progress bars
+tqdm>=4.65.0
+
+# NLP & Deep Learning
+transformers>=4.35.0
+torch>=2.1.0

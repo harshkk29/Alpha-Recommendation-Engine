@@ -1,7 +1,7 @@
 # 📈 Alpha Recommendation Engine (Quant-Focused Portfolio Dashboard)
 
 An institutional-grade stock recommendation and portfolio optimization engine that leverages Graph Neural Networks (GNNs), Multi-Task Ranking, and Advanced NLP Sentiment Analysis.
-
+WEB link:- https://alpha-recommendation-engine-kjd2ry6xhtppanrapshb53.streamlit.app/
 ## 🚀 Features
 
 - **4-Stage Alpha Pipeline**:
